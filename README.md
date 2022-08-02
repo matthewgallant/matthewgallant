@@ -1,7 +1,5 @@
 ### 👋 Hey, I'm Matt!
 
-I'm a web developer at a company called Aptuitiv building amazing websites with the lastest web technologies. Beyond my experience at Aptuitiv I have been working with web development (both frontend and backend) since I was 13. My primary passion when it comes to development is building graphical applicatons whether it's desktop or for the web. Thanks for checking out my little corner of the internet!
-
-🔭 I’m currently working on [EmuBoy](https://github.com/matthewgallant/EmuBoy) — a WIP GameBoy emulator written in C++.
+I'm a web developer at [Aptuitiv](https://www.aptuitiv.com) building custom websites and web applications with modern web technologies. Beyond my work at Aptuitiv I have been hacking on things and programming since age 13. My primary passion when it comes to development is building graphical applications for desktop and the web. My favorite languages at the moment are Rust, C++, and Javascript. I'm currently working on a GameBoy (DMG-01) emulator with a friend written in C++ called [EmuBoy](https://github.com/matthewgallant/EmuBoy).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewgallant&theme=solarized_dark)
