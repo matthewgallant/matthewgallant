@@ -1,31 +1,26 @@
-# 👋 Howdy!
+# 👋 Welcome!
 
-I'm Matt, a front-end developer at [Aptuitiv](https://aptuitiv.com) building custom websites and web applications with modern web technologies. Beyond my work at Aptuitiv I have been hacking on things and programming since I was a young-in. My passion is embedded systems engineering. My favorite languages at the moment are Rust, C++, and Javascript. I'm currently working on a GameBoy (DMG-01) emulator written in Rust/C++ called [EmuBoy](https://github.com/matthewgallant/EmuBoy).
+I'm Matt, a programmer at The State of Maine building full-stack web applications that support state operations. I have been hacking on things and programming since I was young. Some of my favorite technologies at the moment are Rust, React, and Blazor.
 
 ## What I Do For Work
 
-For my day-to-day work I do many tasks beyond whats listed here but these are some highlights:
-
-- Build [pixel-perfect] custom websites (often from designs)
-- Interact with clients directly to assess and meet their needs
-- Increase developer efficiency by introducing new methodologies
+- Build full-stack web applications using C#/.NET/Blazor
+- Manage and work with SQL Server databases
+- Migrate legacy Access applications to C#/.NET and SQL Server
+- Implement and follow DevOps principles like Git Flow and Agile
 
 ## What I Do In My Free Time
 
-My free time is truly when I get to express what I like as a developer. This facet of my life is so complicated but I can boil it down to at least a few items.
-
-- Systems programming
-- Open source ❤️
+- Systems programming (Rust/C++)
 - Desktop and web app development
-- Tinkering with Linux (I use Arch BTW)
+- Music production
+- Reinventing the wheel
 
-## Software & Tools
+## My Knowledge
 
-At the end of the day it doesn't really matter what tool you use so long as you can get the job done, right?
-
-- Editors: Visual Studio Code, Sublime Text, Nano
-- Shell: ZSH
-- Version Control: Git, Tower
-- Operating Systems: macOS, Arch Linux
+- **Languages:** C#, Rust, C++, Javascript, Python, HTML, CSS
+- **Libraries:** React, Blazor, .NET
+- **Databases:** SQL Server, MySQL, MongoDB
+- **Infrastructure:** Docker, Linux Servers
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewgallant&theme=solarized_dark)
