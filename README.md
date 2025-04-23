@@ -6,8 +6,8 @@ I'm Matthew, a Senior Programmer Analyst @ The State of Maine. In my role I buil
 
 - Build full-stack web applications using C# / .NET / Blazor.
 - Manage Microsoft SQL Server databases.
-- Review pull requests from other engineers to ensure only good code gets merged.
-- Set up and maintain automated deployments using GitHub Actions.
+- Review pull requests from other engineers to ensure code is meeting our standards.
+- Configure and maintain automated deployments using GitHub Actions.
 
 ## What I Do In My Free Time
 
@@ -17,9 +17,11 @@ I'm Matthew, a Senior Programmer Analyst @ The State of Maine. In my role I buil
 
 ## Technical Skills
 
-- **Languages:** C#, Java, JavaScript, Python, HTML, CSS, C++
+- **Languages:** C#, Python, C++, Rust, HTML, CSS, JavaScript
 - **Frameworks:** React, Blazor, .NET
-- **Databases:** SQL Server, PostgreSQL, MySQL
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
 - **Infrastructure:** Docker, Linux, GitHub Actions
+
+## GitHub Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewgallant&theme=solarized_dark)
